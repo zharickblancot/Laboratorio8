@@ -1,0 +1,11 @@
+h1{
+    color:rgba(255, 0, 0, 0.788);
+    font-size: 25px;
+}
+p{
+    color: rgb(17, 255, 9) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    border: 3px solid rgb(250, 1, 125);
+}
